@@ -1,5 +1,10 @@
 A tiny Azure SQL database Node.js client utility to help you focus on just writing your SQL query.
 
+[![GitHub issues](https://img.shields.io/github/issues/longsoft-au/azuresql)](https://github.com/longsoft-au/azuresql/issues)
+[![GitHub forks](https://img.shields.io/github/forks/longsoft-au/azuresql)](https://github.com/longsoft-au/azuresql/network)
+[![GitHub stars](https://img.shields.io/github/stars/longsoft-au/azuresql)](https://github.com/longsoft-au/azuresql/stargazers)
+[![GitHub license](https://img.shields.io/github/license/longsoft-au/azuresql)](https://github.com/longsoft-au/azuresql/blob/master/LICENSE)
+
 # Installation
 >npm install azuresql
 
