@@ -1,0 +1,34 @@
+{
+  "name": "azuresql",
+  "version": "0.1.0",
+  "description": "A tiny Azure SQL database client utility",
+  "main": "index.js",
+  "engines": {
+    "node": "> 7.6"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "test:unit": "jest azuresql"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatgates/azuresql.git"
+  },
+  "keywords": [
+    "Azure",
+    "SQL"
+  ],
+  "author": "Mingyu He",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beatgates/azuresql/issues"
+  },
+  "homepage": "https://github.com/beatgates/azuresql#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "mssql": "^6.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
